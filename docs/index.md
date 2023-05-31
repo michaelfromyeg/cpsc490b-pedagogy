@@ -50,6 +50,21 @@ you should take this class!
 
 <hr />
 
+## Logistics
+
+As of 2023/05/31, the course is under review to the Student Directed Seminar program. Because of a few special circumstances described below, we're asking you for now to express your interest by registering for a CPSC 490.2W1 waitlist with no attached time for now. By September 20, we'll send out an application link to everyone registerd on that waitlist **OR WHO DID X (mailed you with specific info? filled out a qualtrics survey?**. We'll also ask for your time preferences for the course. By October 15, we'll send schedule and admissions/waitlist information.
+
+As soon as the application form is ready, we'll also include it here and send the scheduling link to anyone with a complete application.
+
+Special circumstances for student-directed seminars (SDS):
+
+1. The SDS review process is ongoing and unlikely to be complete before registration time.
+2. SDS courses often expect particular backgrounds from participants. We'd like to use a brief application to ask you about those factors.
+3. SDS courses are limited to 15 registrants total, including the seminar's student host.
+4. With such a small group, we hope to find a mutually agreeable time for as close to everyone as possible.
+
+<hr />
+
 ## Proposal
 
 Note this is the proposal that was submitted to the SDS team at UBC. **It is pending approval and is subject to change to my discretion.**
