@@ -7,6 +7,7 @@ This proposal outlines a Student Directed Seminar aimed at educating students on
     - [Who am I?](#who-am-i)
     - [What's this seminar all about, anyway?](#whats-this-seminar-all-about-anyway)
     - [Who should take this class?](#who-should-take-this-class)
+  - [Logistics](#logistics): waitlist registration now, application, scheduling, and actual registration later
   - [Proposal](#proposal)
     - [Seminar rationale](#seminar-rationale)
     - [Learning objectives](#learning-objectives)
