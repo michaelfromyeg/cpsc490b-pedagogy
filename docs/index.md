@@ -1,8 +1,8 @@
-# CPSC490B: Computer Science Pedagogy
+# CPSC 490B: Computer Science Pedagogy
 
 This proposal outlines a Student Directed Seminar aimed at educating students on effective and equitable teaching practices for contemporary topics in computer science.
 
-- [CPSC490B: Computer Science Pedagogy](#cpsc490b-computer-science-pedagogy)
+- [CPSC 490B: Computer Science Pedagogy](#cpsc-490b-computer-science-pedagogy)
   - [About](#about)
     - [Who am I?](#who-am-i)
     - [What's this seminar all about, anyway?](#whats-this-seminar-all-about-anyway)
