@@ -1,0 +1,5 @@
+title: "CPSC 490B: Computer Science Pedagogy"
+description: [A course on teaching computer science.]
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
