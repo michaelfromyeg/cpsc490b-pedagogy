@@ -1,8 +1,8 @@
-# Student Directed Seminar (SDS) Proposal: Computer Science Pedagogy
+# CPSC490B: Computer Science Pedagogy
 
 This proposal outlines a Student Directed Seminar aimed at educating students on effective and equitable teaching practices for contemporary topics in computer science.
 
-- [Student Directed Seminar (SDS) Proposal: Computer Science Pedagogy](#student-directed-seminar-sds-proposal-computer-science-pedagogy)
+- [CPSC490B: Computer Science Pedagogy](#cpsc490b-computer-science-pedagogy)
   - [About](#about)
     - [Who am I?](#who-am-i)
     - [What's this seminar all about, anyway?](#whats-this-seminar-all-about-anyway)
@@ -15,7 +15,7 @@ This proposal outlines a Student Directed Seminar aimed at educating students on
     - [Role of coordinator](#role-of-coordinator)
     - [Coordinator suitability](#coordinator-suitability)
     - [Seminar grading and evaluation](#seminar-grading-and-evaluation)
-    - [Seminar recruitment and selection (250 words)](#seminar-recruitment-and-selection-250-words)
+    - [Seminar recruitment and selection](#seminar-recruitment-and-selection)
     - [Seminar schedule and plan or sample syllabus](#seminar-schedule-and-plan-or-sample-syllabus)
     - [Reading list](#reading-list)
     - [Acknowledgements](#acknowledgements)
@@ -131,7 +131,7 @@ _Highlight the types of assignments and strategies for evaluation._
 
 This is of course highly subject to change. The key objective is having students continually apply the new ideas being explored. The goal is to have them gather evidence through observations, continually reflect on the content (via discussions and in-class participation) and produce a culminating project to synthesize the accumulated learning.
 
-### Seminar recruitment and selection (250 words)
+### Seminar recruitment and selection
 
 _Identify the eligibility criteria for enrolment and strategies for recruitment and selection._
 
