@@ -3,11 +3,12 @@
 This proposal outlines a Student Directed Seminar aimed at educating students on effective and equitable teaching practices for contemporary topics in computer science.
 
 - [CPSC 490B: Computer Science Pedagogy](#cpsc-490b-computer-science-pedagogy)
+  - [tl;dr](#tldr)
   - [About](#about)
     - [Who am I?](#who-am-i)
     - [What's this seminar all about, anyway?](#whats-this-seminar-all-about-anyway)
     - [Who should take this class?](#who-should-take-this-class)
-  - [Logistics](#logistics): waitlist registration now, application, scheduling, and actual registration later
+  - [Logistics](#logistics)
   - [Proposal](#proposal)
     - [Seminar rationale](#seminar-rationale)
     - [Learning objectives](#learning-objectives)
@@ -20,6 +21,10 @@ This proposal outlines a Student Directed Seminar aimed at educating students on
     - [Seminar schedule and plan or sample syllabus](#seminar-schedule-and-plan-or-sample-syllabus)
     - [Reading list](#reading-list)
     - [Acknowledgements](#acknowledgements)
+
+## tl;dr
+
+A course on CS education. Run as a Student Directed Seminar. Interested? Register for CPSC 490.2W1 on the SSC or drop a line to `mdemar01 [at] student [dot] ubc [dot] ca` with `[CPSC 490B]` in the subject line. The course's scheduling will depend on its participants!
 
 ## About
 
@@ -53,7 +58,7 @@ you should take this class!
 
 ## Logistics
 
-As of 2023/05/31, the course is under review to the Student Directed Seminar program. Because of a few special circumstances described below, we're asking you for now to express your interest by registering for a CPSC 490.2W1 waitlist with no attached time for now. By September 20, we'll send out an application link to everyone registerd on that waitlist **OR WHO DID X (mailed you with specific info? filled out a qualtrics survey?**. We'll also ask for your time preferences for the course. By October 15, we'll send schedule and admissions/waitlist information.
+As of 2023/05/31, the course is under review by the Student Directed Seminar program leads. Because of a few special circumstances described below, we're asking you for now to express your interest by registering for a CPSC 490.2W1 waitlist with no attached time for now. By September 20, we'll send out an application link to everyone registered on that waitlist or who has expressed interest via email. (If you'd like to do that, please reach out at `mdemar01 [at] student [dot] ubc [dot] ca` with `[CPSC 490B]` in the subject line.) We'll also ask for your time preferences for the course. By October 15, we'll send schedule and admissions/waitlist information.
 
 As soon as the application form is ready, we'll also include it here and send the scheduling link to anyone with a complete application.
 
